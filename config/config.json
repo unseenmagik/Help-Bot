@@ -1,12 +1,12 @@
 {
-	"token": "BOT_TOKEN",
-	"botID": "BOT_USER_ID",
-	"ownerID": "YOUR_USER_ID",
-	"serverName": "NAME_OF_YOUR_SERVER",
-	"serverID": "SERVER_ID",
-	"cmdPrefix": "!",
-	"adminRoleName": "ADMIN_ROLE_NAME",
-	"modRoleName": "MODERATOR_ROLE_NAME",
+	"token": "NDUzMTI3NjUxMjc2NzUwODU4.DfaXiw.NAdqbEmvCkTVLBdEEmJLRVgIdWo",
+	"botID": "453127651276750858",
+	"ownerID": "289760722622349312",
+	"serverName": "Magik Test Lab",
+	"serverID": "407816841210363907",
+	"cmdPrefix": ".",
+	"adminRoleName": "Administrator",
+	"modRoleName": "Moderator",
 	"discordInvite": {
 		"enabled": "no",
 		"code": "INVITE_CODE"
@@ -32,13 +32,13 @@
 		"url": "GEOFENCE_MAP_URL"
 	},
 	"patreon": {
-		"enabled": "no",
-		"url": "PATREON_URL",
+		"enabled": "yes",
+		"url": "https://www.patreon.com/magikbot",
 		"img": "https://raw.githubusercontent.com/JennerPalacios/PokeHelp-Bot/master/img/patreon_icon.jpg"
 	},
 	"paypal": {
-		"enabled": "no",
-		"url": "PAYPAL_URL",
+		"enabled": "yes",
+		"url": "http://www.paypalme.com/unseenmagik",
 		"img": "https://raw.githubusercontent.com/JennerPalacios/PokeHelp-Bot/master/img/paypal_icon.jpg"
 	},
 	"rulesChannel": {
